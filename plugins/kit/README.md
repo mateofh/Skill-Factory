@@ -8,11 +8,16 @@ agenda, reuniones, escritura, y para armarte las tuyas.
 Dos comandos, una sola vez. Escribilos dentro de Claude Code:
 
 ```
-/plugin marketplace add mateofh/Skill-Factory
+/plugin marketplace add https://github.com/mateofh/Skill-Factory.git
 /plugin install kit@bootcamp-cc
 ```
 
 Si al terminar te dice que corras `/reload-plugins`, hacelo. Listo.
+
+> Copiá la dirección completa tal cual, con el `https://` y el `.git` al final.
+> La versión corta `mateofh/Skill-Factory` también existe, pero solo funciona si
+> ya configuraste llaves de acceso a GitHub — y si no sabés si las tenés, no las
+> tenés.
 
 Para actualizarlo más adelante, cuando se agreguen mejoras:
 
