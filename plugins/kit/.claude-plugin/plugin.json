@@ -1,0 +1,8 @@
+{
+  "name": "kit",
+  "description": "Kit de productividad para el bootcamp de Claude Code: correo, agenda, reuniones, escritura y tus propios skills. Funciona con Gmail y con Microsoft 365.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mateo Folador"
+  }
+}

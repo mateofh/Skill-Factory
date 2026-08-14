@@ -1,0 +1,18 @@
+{
+  "name": "bootcamp-cc",
+  "owner": {
+    "name": "Mateo Folador",
+    "url": "https://github.com/mateofh"
+  },
+  "metadata": {
+    "description": "Marketplace del bootcamp de Claude Code",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "kit",
+      "source": "./plugins/kit",
+      "description": "Kit de productividad: correo, agenda, reuniones, escritura y tus propios skills. Funciona con Gmail y con Microsoft 365."
+    }
+  ]
+}
