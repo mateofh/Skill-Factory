@@ -36,7 +36,7 @@ En este orden. Son diez minutos en total y cambian todo lo demás.
 
 El segundo es el que más rinde de los once. Si vas a hacer uno solo, hacé ese.
 
-## Los once
+## Los doce
 
 **Para arrancar**
 
@@ -63,6 +63,12 @@ El segundo es el que más rinde de los once. Si vas a hacer uno solo, hacé ese.
 |---|---|
 | `/kit:email-dificil` | El correo que venís postergando |
 | `/kit:escribir-en-mi-voz` | Aprende cómo escribís y deja de sonar a IA |
+
+**Construir**
+
+| | |
+|---|---|
+| `/kit:armar-prd` | El plan de tu landing, app o automatización, en fases para Claude Code |
 
 No hace falta escribir el nombre completo. Si decís *"tengo el mail explotado"* o
 *"¿qué hice hoy?"*, Claude elige el que corresponde.
